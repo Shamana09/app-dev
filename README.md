@@ -4,7 +4,8 @@
   <li>Lion King</li>
   <li>Mowgli</li>
   <li>Lorax</li>
-| Lion King   | Mowgli      | Lorax         |
+
+  | Lion King | Mowgli      |Lorax          |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| 1st movie I saw as a kid| very well told story that depicts the growth of a boy to man | have lots of things to teach about morality| 
+| end of table | end of table| end of table|
